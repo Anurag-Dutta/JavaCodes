@@ -1,0 +1,47 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "Java_89f5f7e0"
+    },
+    {
+      "type": "java",
+      "name": "Launch RemoveWhiteSpacesFromString",
+      "request": "launch",
+      "mainClass": "RemoveWhiteSpacesFromString",
+      "projectName": "Java_89f5f7e0"
+    },
+    {
+      "type": "java",
+      "name": "Launch Factorial",
+      "request": "launch",
+      "mainClass": "Factorial",
+      "projectName": "Java_89f5f7e0"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:/Users/Anurag Dutta/Desktop/Essentials/Vaults/Technologies/Java",
+      "environment": [],
+      "program": "c:/Users/Anurag Dutta/Desktop/Essentials/Vaults/Technologies/Java/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
+      "console": "integratedTerminal",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
